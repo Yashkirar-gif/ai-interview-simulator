@@ -1,0 +1,6 @@
+{
+  "name": "AI Interview Simulator",
+  "description": "An intelligent mock interview platform and ATS resume optimizer simulating technical interviews, scoring resumes out of 100, and providing actionable improvements.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
